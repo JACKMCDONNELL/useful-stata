@@ -1,7 +1,8 @@
-#Perinatal Factors Impact Prognosis in Neonatal HIE – Methods and Analysis
-Overview
+# Perinatal Factors Impact Prognosis in Neonatal HIE – Methods and Analysis
 
-With this study, I evaluate the impact of perinatal risk factors on outcomes in neonatal hypoxic-ischemic encephalopathy (HIE). Many previous studies have examined how potential risk factors are associated with the development of HIE in the neonate, but very few have characterized the relative effect of each of these factors on short-term prognosis. In addition to evaluating basic statistics covering difference in demographics between those who get cooling therapy and those who don’t (a proxy for disease severity),  I will use the 2012 HCUP KID database to examine how well-known risk factors of HIE translate into immediate patient outcomes – 1) inpatient length of stay (LOS) and 2) infant death in the neonatal period.
+## Overview
+
+With this study, I evaluate the impact of perinatal risk factors on outcomes in neonatal hypoxic-ischemic encephalopathy (HIE). Many previous studies have examined how potential risk factors are associated with the development of HIE in the neonate, but very few have characterized the relative effect of each of these factors on short-term prognosis. In addition to evaluating basic statistics covering difference in demographics between those who get cooling therapy and those who don’t (a proxy for disease severity),  I will use the 2012 HCUP KID database to examine how well-known risk factors of HIE translate into immediate patient outcomes – 1) inpatient length of stay (**LOS**) and 2) **infant death** in the neonatal period.
 Data Source
 
 I use the HCUP 2012 Kids’ Inpatient Database (KID) to perform this analysis. HCUP has several advantages here– it is a representative national sample with input from all payers and contains an exhaustive trove of inpatient diagnosis and procedure codes. Since I already had access to these data through the Cleveland Clinic and a valid Data Use Agreement through that means, I performed my analyses in Stata IC 15.1 on my personal computer.  
